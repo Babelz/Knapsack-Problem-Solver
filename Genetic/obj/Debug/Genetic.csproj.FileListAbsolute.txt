@@ -1,6 +1,0 @@
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Debug\Genetic.exe.config
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Debug\Genetic.exe
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Debug\Genetic.pdb
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\obj\Debug\Genetic.exe
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\obj\Debug\Genetic.pdb

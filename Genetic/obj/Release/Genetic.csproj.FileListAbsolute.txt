@@ -1,5 +1,0 @@
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Release\Genetic.exe.config
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Release\Genetic.exe
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\bin\Release\Genetic.pdb
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\obj\Release\Genetic.exe
-c:\users\niko\documents\visual studio 2013\Projects\Genetic\Genetic\obj\Release\Genetic.pdb
